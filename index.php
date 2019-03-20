@@ -33,7 +33,7 @@
 						<input type="password" name="password" class="form-control" style="width: 300px" required="">
 					</div>
 					<div class="text-center">
-					<button type="submit" class="btn btn-primary" id="btn">Log In</button>
+					<button type="submit" class="btn btn-primary" id="btn">MASUK</button>
 				</div>
 				</form>	
 			</div>
